@@ -17,14 +17,14 @@
         [
             'name' => 'Interstellar',
             'description' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde sequi dignissimos asperiores neque ea! Voluptatibus quo esse sequi natus excepturi.',
-            'liked' => 'Yes',
+            'liked' => null,
             'director' => 'Cristopher Nolan',
             'genre' => ['Dramatic', 'Sci-fi']
         ],
         [
             'name' => 'Avatar',
             'description' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde sequi dignissimos asperiores neque ea! Voluptatibus quo esse sequi natus excepturi.',
-            'liked' => 'No',
+            'liked' => 'Dipende',
             'director' => 'James Cameron',
             'genre' => ['Action', 'Sci-fi', 'Fantasy']
         ],
